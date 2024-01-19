@@ -1,23 +1,16 @@
 Introduction
 
-With variations in step counts seen throughout different seasons, the goal of this research study is to investigate the idea that seasonal changes significantly influence daily step counts. The foundational theory posits that environmental and climatic fluctuations inherent in seasonal shifts may impact an individuals motivation and ability to engage in physical activities such as walking. The data for this research was carefully collected over many years by myself. It shows the number of steps taken each day during different seasons by me.
+With variations in step counts seen throughout different seasons, the goal of this research study is to investigate the idea that seasonal changes significantly influence daily step counts. The foundational theory posits that environmental and climatic fluctuations inherent in seasonal shifts may impact an individuals motivation and ability to engage in physical activities such as walking. The data for this research was carefully collected over many years by myself. It shows the number of steps taken each day during different seasons by me. I wanted to learn how much the seasons affect how much we walk every day. Walking a lot is good for staying healthy. So I saved how many steps I took each day for a few years using my step tracker. This information is special because it's just about me, and it helps me see how I change what I do in different seasons. I hope this can help us make good plans for staying active all year. I will use graphs and math to understand my steps better and to see how the seasons make a difference. This could help us know more about staying healthy and planning our cities.
 
-I wanted to learn how much the seasons affect how much we walk every day. Walking a lot is good for staying healthy. So I saved how many steps I took each day for a few years using my step tracker. This information is special because it's just about me, and it helps me see how I change what I do in different seasons. I hope this can help us make good plans for staying active all year. I will use graphs and math to understand my steps better and to see how the seasons make a difference. This could help us know more about staying healthy and planning our cities.
+Findings 
 
-
-Findings - What I Learned About Myself
+What I Learned About Myself
 
 My analytical and problem solving abilities have significantly improved as a result of this project.  My capacity to obtain useful information from datasets has improved as a result of my role in the several phases of data analysis, from cleaning to analysis.  The project also promoted a better comprehension of the issue, which improved my general knowledge and expertise in this field.
-
-
 
 Limitations and Future Work
 
 The project did well but had some issues because there wasnt enough time and data. If we can get more information in the future, I could make the study even better. It's important to work on these problems so that the project can help more.
-
-Looking ahead, I want to gather more data over a longer time to make sure the results are right. I will also look at other things that might change how many steps people take every day, like the weather, when people work, and how they live their lives. If I study people from different places and backgrounds, I can learn things that work for everyone. This can help make better health programs and city plans. We need to keep studying this to find ways to get people to walk more, which is good for everyone's health.
-
-
 
 Data Analysis Techniques and Stages
 
@@ -42,7 +35,6 @@ Statistical Analysis:
 •	Applied hypothesis testing to validate assumptions and make inferences.
 •	Utilized regression analysis to understand relationships between variables.
 
-
 Time Series Analysis:
 
 •	Decomposed time series data to understand underlying patterns.
@@ -51,8 +43,6 @@ Advanced Techniques:
 
 •	Employed dimensionality reduction methods like Principal Component Analysis (PCA).
 •	Utilized ensemble methods such as Random Forest or Gradient Boosting for improved model performance.
-
-
 
 Interpretation and Reporting:
 
